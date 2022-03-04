@@ -4,4 +4,4 @@ project(learn_algorithm_cpp)
 set(CMAKE_CXX_STANDARD 11)
 
 add_executable(learn_algorithm_cpp
-        haizeix-767.cpp)
+        haizeix-768.cpp)
